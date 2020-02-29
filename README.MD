@@ -25,3 +25,13 @@ https://mp.weixin.qq.com/s/a3mWo9P9rxQxOuP-fkWZkQ
 3.QMQ
 
 4.Kafka
+
+1.解耦; 接口统一
+A调用消费接口消费broker数据
+B、C、D调用生产接口发送数据到broker 
+
+异步、削峰
+
+2.netty通讯
+
+3.
