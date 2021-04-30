@@ -1,10 +1,10 @@
-package com.example.demo;
+package org.fancy.mq.client;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class FancymqClientApplicationTests {
 
     @Test
     void contextLoads() {
